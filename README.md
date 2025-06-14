@@ -1,9 +1,9 @@
 
 ---
 
-# AutoFixHub
+# checkmycar
 
-AutoFixHub is a web application designed for an automotive service center. It allows customers to book appointments, order car parts, and track their service history. The platform also provides a dashboard for mechanics and admins to manage appointments, orders, and users.
+checkmycar is a web application designed for an automotive service center. It allows customers to book appointments, order car parts, and track their service history. The platform also provides a dashboard for mechanics and admins to manage appointments, orders, and users.
 
 ## Table of Contents
 
@@ -54,8 +54,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/AutoFixHub.git
-   cd AutoFixHub
+   git clone https://github.com/yourusername/checkmycar.git
+   cd checkmycar
    ```
 
 2. **Install dependencies:**
@@ -185,14 +185,6 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- Email: [Mail me](mailto:ammarnazir864@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [ GitHub Profile](https://github.com/AmmarNazir)
 
 ---
 
