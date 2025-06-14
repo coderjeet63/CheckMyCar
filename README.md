@@ -94,7 +94,7 @@ Create a `.env` file in the `backend` directory with the following variables:
 
 ```env
 # MongoDB connection string
-MONGO_URI=mongodb://localhost:27017/autofixhub
+MONGO_URI=your_MONGO_URI
 
 # JWT Secret
 JWT_SECRET=your_jwt_secret
